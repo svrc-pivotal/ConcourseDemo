@@ -30,3 +30,9 @@ nbdist/
 *#
 *.swp
 *~
+
+#h2
+testdatabase*
+
+#elastic
+data/
